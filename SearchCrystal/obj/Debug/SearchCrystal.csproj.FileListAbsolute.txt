@@ -1,0 +1,77 @@
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\SearchCrystal.exe.config
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\obj\Debug\SearchCrystal.csprojResolveAssemblyReference.cache
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\obj\Debug\SearchCrystal.Main.resources
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\obj\Debug\SearchCrystal.Properties.Resources.resources
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\obj\Debug\SearchCrystal.csproj.GenerateResource.Cache
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\SearchCrystal.exe
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\SearchCrystal.pdb
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\CrystalDecisions.Shared.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\log4net.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\log4net.xml
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\obj\Debug\SearchCrystal.exe
+C:\WorkingOn\SearchCrquery\SearchCrystal\SearchCrystal\obj\Debug\SearchCrystal.pdb
+C:\Work\crystal-report-search\SearchCrystal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Work\crystal-report-search\SearchCrystal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Work\crystal-report-search\SearchCrystal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Work\crystal-report-search\SearchCrystal\obj\Debug\SearchCrystal.Main.resources
+C:\Work\crystal-report-search\SearchCrystal\obj\Debug\SearchCrystal.Properties.Resources.resources
+C:\Work\crystal-report-search\SearchCrystal\obj\Debug\SearchCrystal.csproj.GenerateResource.Cache
+C:\Work\crystal-report-search\SearchCrystal\bin\Debug\Crystal Reports Search.exe.config
+C:\Work\crystal-report-search\SearchCrystal\bin\Debug\Crystal Reports Search.exe.manifest
+C:\Work\crystal-report-search\SearchCrystal\bin\Debug\Crystal Reports Search.application
+C:\Work\crystal-report-search\SearchCrystal\bin\Debug\Crystal Reports Search.exe
+C:\Work\crystal-report-search\SearchCrystal\bin\Debug\Crystal Reports Search.pdb
+C:\Work\crystal-report-search\SearchCrystal\obj\Debug\Crystal Reports Search.exe.manifest
+C:\Work\crystal-report-search\SearchCrystal\obj\Debug\Crystal Reports Search.application
+C:\Work\crystal-report-search\SearchCrystal\obj\Debug\Crystal Reports Search.exe
+C:\Work\crystal-report-search\SearchCrystal\obj\Debug\Crystal Reports Search.pdb
+C:\Work\crystal-report-search\SearchCrystal\obj\Debug\SearchCrystal.csprojResolveAssemblyReference.cache
+C:\WorkingOn\Crystal-Reports-Search\SearchCrystal\bin\Debug\Crystal Reports Search.exe.config
+C:\WorkingOn\Crystal-Reports-Search\SearchCrystal\obj\Debug\Crystal Reports Search.exe
+C:\WorkingOn\Crystal-Reports-Search\SearchCrystal\obj\Debug\Crystal Reports Search.pdb
