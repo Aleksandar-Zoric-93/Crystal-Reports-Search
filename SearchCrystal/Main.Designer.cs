@@ -41,6 +41,7 @@
             this.copyLbl = new System.Windows.Forms.Label();
             this.copyrightLbl = new System.Windows.Forms.Label();
             this.helpBox = new System.Windows.Forms.PictureBox();
+            this.versionLbl = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.helpBox)).BeginInit();
             this.SuspendLayout();
             // 
@@ -169,12 +170,22 @@
             this.helpBox.TabStop = false;
             this.helpBox.Click += new System.EventHandler(this.helpBox_Click);
             // 
+            // versionLbl
+            // 
+            this.versionLbl.AutoSize = true;
+            this.versionLbl.Location = new System.Drawing.Point(633, 406);
+            this.versionLbl.Name = "versionLbl";
+            this.versionLbl.Size = new System.Drawing.Size(40, 13);
+            this.versionLbl.TabIndex = 13;
+            this.versionLbl.Text = "0.0.0.5";
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(685, 421);
+            this.Controls.Add(this.versionLbl);
             this.Controls.Add(this.helpBox);
             this.Controls.Add(this.copyrightLbl);
             this.Controls.Add(this.copyLbl);
@@ -213,6 +224,7 @@
         private System.Windows.Forms.Label copyLbl;
         private System.Windows.Forms.Label copyrightLbl;
         private System.Windows.Forms.PictureBox helpBox;
+        private System.Windows.Forms.Label versionLbl;
     }
 }
 

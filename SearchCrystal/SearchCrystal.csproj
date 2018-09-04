@@ -22,7 +22,10 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>3</ApplicationRevision>
+    <InstallUrl>\\diomacsvr\Public Documents\Alex\CrystalReportSearch\</InstallUrl>
+    <UpdateUrl>\\diomacsvr\Public Documents\Alex\CrystalReportSearch\</UpdateUrl>
+    <ProductName>Crystal Reports Search</ProductName>
+    <ApplicationRevision>6</ApplicationRevision>
     <ApplicationVersion>0.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>

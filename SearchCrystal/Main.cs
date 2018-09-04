@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Data.SqlClient;
+using System.Deployment.Application;
 using System.Drawing;
 using System.IO;
 using System.Linq;
@@ -54,6 +55,8 @@ namespace SearchCrystal
                 {
                     MessageBox.Show("Report not loaded.  Please select a Crystal report (.rpt)", "Crystal Reports Search",
                     MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    searchBtn.Text = "Search";
+                    searchBtn.Enabled = true;
                     return;
                 }
                 parameterSearch();
@@ -71,7 +74,8 @@ namespace SearchCrystal
             {
                 MessageBox.Show("Report not loaded.  Please select a Crystal report (.rpt)", "Crystal Reports Search",
                 MessageBoxButtons.OK, MessageBoxIcon.Warning);
-
+                searchBtn.Text = "Search";
+                searchBtn.Enabled = true;
                 return string.Empty;
             }
 
@@ -226,6 +230,8 @@ namespace SearchCrystal
         private void viewReportBtn_Click(object sender, EventArgs e)
         {
             copyBtn.Visible = false;
+            MessageBox.Show("This feature is currently still in progress.", "In Progress",
+            MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
         #endregion
 

@@ -72,6 +72,6 @@ C:\Work\crystal-report-search\SearchCrystal\obj\Debug\Crystal Reports Search.app
 C:\Work\crystal-report-search\SearchCrystal\obj\Debug\Crystal Reports Search.exe
 C:\Work\crystal-report-search\SearchCrystal\obj\Debug\Crystal Reports Search.pdb
 C:\Work\crystal-report-search\SearchCrystal\obj\Debug\SearchCrystal.csprojResolveAssemblyReference.cache
-C:\WorkingOn\Crystal-Reports-Search\SearchCrystal\bin\Debug\Crystal Reports Search.exe.config
-C:\WorkingOn\Crystal-Reports-Search\SearchCrystal\obj\Debug\Crystal Reports Search.exe
-C:\WorkingOn\Crystal-Reports-Search\SearchCrystal\obj\Debug\Crystal Reports Search.pdb
+C:\WorkingOn\crystal-report-sql-search\SearchCrystal\bin\Debug\Crystal Reports Search.exe.config
+C:\WorkingOn\crystal-report-sql-search\SearchCrystal\obj\Debug\Crystal Reports Search.exe
+C:\WorkingOn\crystal-report-sql-search\SearchCrystal\obj\Debug\Crystal Reports Search.pdb
