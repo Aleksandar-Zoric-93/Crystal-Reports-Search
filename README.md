@@ -13,7 +13,23 @@ This tool will allow users to search for a specific criteria against a selected 
 This tool will prove to be useful when we have to check if a certain field or table is contained within a report.  Currently we have to manually open each report in Crystal Reports and inspect the SQL query.  
 
 ## How to Use
-To be completed...
+
+Welcome to the Crystal Reports Search Help Section
+
+Please see guide below on how to use the application:
+
+1. Select a report.  Report must be in .RPT format.
+2. Enter a search criteria and click on Search. This will search the report SQL query and table/command names against your search criteria.
+3. You can now review matches found or use the copy button to copy the matches to your clipboard.
+4. To view the entire SQL query and command/table names, select the View SQL button.
+5. To preview the report, select the Preview Report button.
+
+Notes: 
+The search feature will return any similar data that is found between the search critera and the SQL query.
+While it will look for exact matches when searching  for command/table names.
+
+For example, if you want to see if a command called command_main exists, your search criteria must be spelled exactly as such.
+If you are looking for a table called InvenDet in the SQL query, having just inven in your search critera will return the result.
 
 ## For Development:
 [Link for Crystal Reports SDK](https://wiki.scn.sap.com/wiki/display/BOBJ/Crystal+Reports%2C+Developer+for+Visual+Studio+Downloads)
