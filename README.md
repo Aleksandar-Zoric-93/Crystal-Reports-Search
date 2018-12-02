@@ -28,8 +28,5 @@ Notes:
 The search feature will return any similar data that is found between the search critera and the SQL query.
 While it will look for exact matches when searching  for command/table names.
 
-For example, if you want to see if a command called command_main exists, your search criteria must be spelled exactly as such.
-If you are looking for a table called InvenDet in the SQL query, having just inven in your search critera will return the result.
-
 ## For Development:
 [Link for Crystal Reports SDK](https://wiki.scn.sap.com/wiki/display/BOBJ/Crystal+Reports%2C+Developer+for+Visual+Studio+Downloads)
